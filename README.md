@@ -1,4 +1,4 @@
-## YouTube Channel: Emerging Technologies (https://www.youtube.com/c/EmergingTechnologies101) 
+## YouTube Channel: [Emerging Technologies](https://www.youtube.com/c/EmergingTechnologies101) 
 #### Instructor: Sana Rasheed
 --------------------
 
@@ -16,15 +16,19 @@ Sana.
 1. Intro to Data Science
 2. Learn Python
 3. Data Analysis
+4. Version Control
+5. Data Collection and Data Wrangling
+6. (To be continue...)
 
 ##### For vast knowledge 
 1. Data Science in Industry
-
+2. AI for Enterprises
+3. Self Driving Car Simulation
 
 ----------------------
 #### Data Science Books
 ----------------------
-Get my Data Scienct Bookset from Gufhtugu Publicatons (
+Get my Data Scienct Bookset from [Gufhtugu Publicatons] (
 https://gufhtugu.com/product-category/our-authors/sana-rasheed/) and follow the sequence:
 1. Introduction to AI 
 2. Introduction to Data Science
